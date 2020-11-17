@@ -11,9 +11,13 @@
   "author": "dungbik",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5"
   },
   "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-plugin-react": "^7.21.5",
     "nodemon": "^2.0.6"
   }
 }
